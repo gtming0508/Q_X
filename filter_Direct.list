@@ -1,0 +1,497 @@
+
+# China Area Network
+# > Microsoft
+HOST-SUFFIX,microsoft.com,direct
+HOST-SUFFIX,windows.net,direct
+HOST-SUFFIX,sfx.ms,direct
+HOST-SUFFIX,sharepoint.com,direct
+HOST-KEYWORD,officecdn,direct
+# > Blizzard
+HOST-SUFFIX,blizzard.com,direct
+HOST-SUFFIX,battle.net,direct
+HOST,blzddist1-a.akamaihd.net,direct
+# > Steam
+HOST-SUFFIX,steampowered.com,direct
+HOST-SUFFIX,steam-chat.com,direct
+HOST-KEYWORD,steamcdn,direct
+HOST-KEYWORD,steamstore,direct
+HOST-KEYWORD,steamuserimages,direct
+HOST-KEYWORD,steambroadcast,direct
+# > Tencent
+#USER-AGENT,MicroMessenger%20Client,direct
+#USER-AGENT,WeChat*,direct
+HOST-SUFFIX,qq.com,direct
+HOST-SUFFIX,qpic.cn,direct
+HOST-SUFFIX,tencent.com,direct
+# > Alibaba
+HOST-SUFFIX,alibaba.com,direct
+HOST-SUFFIX,alicdn.com,direct
+HOST-SUFFIX,amap.com,direct
+HOST-SUFFIX,dingtalk.com,direct
+HOST-SUFFIX,taobao.com,direct
+HOST-SUFFIX,tmall.com,direct
+HOST-SUFFIX,ykimg.com,direct
+HOST-SUFFIX,youku.com,direct
+HOST-SUFFIX,xiami.com,direct
+HOST-SUFFIX,xiami.net,direct
+# > NetEase
+HOST-SUFFIX,163.com,direct
+HOST-SUFFIX,126.net,direct
+HOST-SUFFIX,163yun.com,direct
+# > Sohu
+HOST-SUFFIX,sohu.com.cn,direct
+HOST-SUFFIX,itc.cn,direct
+HOST-SUFFIX,sohu.com,direct
+HOST-SUFFIX,v-56.com,direct
+# > Sina
+HOST-SUFFIX,weibo.com,direct
+HOST-SUFFIX,weibo.cn,direct
+# > JD
+HOST-SUFFIX,jd.com,direct
+HOST-SUFFIX,jd.hk,direct
+HOST-SUFFIX,360buyimg.com,direct
+# > MI
+HOST-SUFFIX,duokan.com,direct
+HOST-SUFFIX,mi-img.com,direct
+HOST-SUFFIX,mifile.cn,direct
+HOST-SUFFIX,xiaomi.com,direct
+# > bilibili
+HOST-SUFFIX,acgvideo.com,direct
+HOST-SUFFIX,bilibili.com,direct
+HOST-SUFFIX,hdslb.com,direct
+# > iQiyi
+HOST-SUFFIX,iqiyi.com,direct
+HOST-SUFFIX,iqiyipic.com,direct
+HOST-SUFFIX,71.am.com,direct
+# > HunanTV
+HOST-SUFFIX,hitv.com,direct
+HOST-SUFFIX,mgtv.com,direct
+# > Meitu
+HOST-SUFFIX,meitu.com,direct
+HOST-SUFFIX,meitudata.com,direct
+HOST-SUFFIX,meipai.com,direct
+# > YYeTs
+HOST-SUFFIX,zmzapi.com,direct
+HOST-SUFFIX,zimuzu.tv,direct
+HOST-SUFFIX,zmzfile.com,direct
+HOST-SUFFIX,zmzapi.net,direct
+# > 蛋蛋赞
+HOST-SUFFIX,baduziyuan.com,direct
+HOST-SUFFIX,com-hs-hkdy.com,direct
+HOST-SUFFIX,czybjz.com,direct
+HOST-SUFFIX,dandanzan.com,direct
+HOST-SUFFIX,fjhps.com,direct
+HOST-SUFFIX,kuyunbo.club,direct
+# > Baidu
+HOST-SUFFIX,baidu.com,direct
+HOST-SUFFIX,baidubcr.com,direct
+HOST-SUFFIX,bdstatic.com,direct
+# > ChinaNet
+HOST-SUFFIX,189.cn,direct
+HOST-SUFFIX,21cn.com,direct
+# > ByteDance
+HOST-SUFFIX,bytecdn.cn,direct
+HOST-SUFFIX,pstatp.com,direct
+HOST-SUFFIX,snssdk.com,direct
+HOST-SUFFIX,toutiao.com,direct
+# > Content Delivery Network
+# > Akamai
+HOST-SUFFIX,akadns.net,direct
+# - HOST-SUFFIX,akamai.net,direct
+# - HOST-SUFFIX,akamaiedge.net,direct
+# - HOST-SUFFIX,akamaihd.net,direct
+# - HOST-SUFFIX,akamaistream.net,direct
+# - HOST-SUFFIX,akamaized.net,direct
+# > ChinaNetCenter
+HOST-SUFFIX,chinanetcenter.com,direct
+HOST-SUFFIX,wangsu.com,direct
+# > IP Query
+HOST-SUFFIX,ipip.net,direct
+HOST-SUFFIX,ip.cn,direct
+HOST-SUFFIX,ip.la,direct
+HOST-SUFFIX,ip-cdn.com,direct
+HOST-SUFFIX,ipv6-test.com,direct
+HOST-SUFFIX,test-ipv6.com,direct
+HOST-SUFFIX,whatismyip.com,direct
+HOST,ip.bjango.com,direct
+# > Other
+HOST-SUFFIX,40017.cn,direct
+HOST-SUFFIX,broadcasthe.net,direct
+HOST-SUFFIX,cailianpress.com,direct
+HOST-SUFFIX,chdbits.co,direct
+HOST-SUFFIX,chushou.tv,direct
+HOST-SUFFIX,cmbchina.com,direct
+HOST-SUFFIX,cmbimg.com,direct
+HOST-SUFFIX,cmct.tv,direct
+HOST-SUFFIX,cmvideo.cn,direct
+HOST-SUFFIX,cnlang.org,direct
+HOST-SUFFIX,doubanio.com,direct
+HOST-SUFFIX,douyu.com,direct
+HOST-SUFFIX,douyucdn.cn,direct
+HOST-SUFFIX,dxycdn.com,direct
+HOST-SUFFIX,hicloud.com,direct
+HOST-SUFFIX,hdchina.org,direct
+HOST-SUFFIX,hdcmct.org,direct
+HOST-SUFFIX,ithome.com,direct
+HOST-SUFFIX,kkmh.com,direct
+HOST-SUFFIX,ksosoft.com,direct
+HOST-SUFFIX,maoyun.tv,direct
+HOST-SUFFIX,meituan.net,direct
+HOST-SUFFIX,mobike.com,direct
+HOST-SUFFIX,mubu.com,direct
+HOST-SUFFIX,myzaker.com,direct
+HOST-SUFFIX,ourbits.club,direct
+HOST-SUFFIX,passthepopcorn.me,direct
+HOST-SUFFIX,paypal.com,direct
+HOST-SUFFIX,paypalobjects.com,direct
+HOST-SUFFIX,privatehd.to,direct
+HOST-SUFFIX,redacted.ch,direct
+HOST-SUFFIX,ruguoapp.com,direct
+HOST-SUFFIX,smzdm.com,direct
+HOST-SUFFIX,sogou.com,direct
+HOST-SUFFIX,teamviewer.com,direct
+HOST-SUFFIX,totheglory.im,direct
+HOST-SUFFIX,tp.m-team.cc,direct
+HOST-SUFFIX,udacity.com,direct
+HOST-SUFFIX,xmcdn.com,direct
+HOST-SUFFIX,yangkeduo.com,direct
+HOST-SUFFIX,zhihu.com,direct
+HOST-SUFFIX,zhimg.com,direct
+#USER-AGENT,NeteaseMusic*,direct
+#USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,direct
+
+# Local Area Network
+HOST-KEYWORD,announce,direct
+HOST-KEYWORD,torrent,direct
+HOST-KEYWORD,tracker,direct
+HOST-SUFFIX,smtp,direct
+HOST-SUFFIX,local,direct
+IP-CIDR,192.168.0.0/16,direct
+IP-CIDR,10.0.0.0/8,direct
+IP-CIDR,172.16.0.0/12,direct
+IP-CIDR,127.0.0.0/8,direct
+IP-CIDR,100.64.0.0/10,direct
+
+
+
+HOST-SUFFIX,icloud.com,direct
+HOST-SUFFIX,icloud-content.com,direct
+HOST-SUFFIX,me.com,direct
+HOST-SUFFIX,mzstatic.com,direct
+HOST-SUFFIX,aaplimg.com,direct
+HOST-SUFFIX,cdn-apple.com,direct
+HOST-SUFFIX,apple.com,direct
+#国内网站
+HOST-SUFFIX,akadns.net,direct
+HOST-SUFFIX,akamaized.net,direct
+HOST-SUFFIX,cn,direct
+HOST-KEYWORD,-cn,direct
+HOST-SUFFIX,126.com,direct
+HOST-SUFFIX,126.net,direct
+HOST-SUFFIX,127.net,direct
+HOST-SUFFIX,163.com,direct
+HOST-SUFFIX,360buyimg.com,direct
+HOST-SUFFIX,36kr.com,direct
+HOST-SUFFIX,acfun.tv,direct
+HOST-SUFFIX,air-matters.com,direct
+HOST-SUFFIX,aixifan.com,direct
+HOST-KEYWORD,alicdn,direct
+HOST-KEYWORD,alipay,direct
+HOST-KEYWORD,taobao,direct
+HOST-SUFFIX,amap.com,direct
+HOST-SUFFIX,autonavi.com,direct
+HOST-KEYWORD,baidu,direct
+HOST-SUFFIX,bdimg.com,direct
+HOST-SUFFIX,bdstatic.com,direct
+HOST-SUFFIX,bilibili.com,direct
+HOST-SUFFIX,caiyunapp.com,direct
+HOST-SUFFIX,clouddn.com,direct
+HOST-SUFFIX,cnbeta.com,direct
+HOST-SUFFIX,cnbetacdn.com,direct
+HOST-SUFFIX,cootekservice.com,direct
+HOST-SUFFIX,csdn.net,direct
+HOST-SUFFIX,ctrip.com,direct
+HOST-SUFFIX,dgtle.com,direct
+HOST-SUFFIX,dianping.com,direct
+HOST-SUFFIX,douban.com,direct
+HOST-SUFFIX,doubanio.com,direct
+HOST-SUFFIX,duokan.com,direct
+HOST-SUFFIX,easou.com,direct
+HOST-SUFFIX,ele.me,direct
+HOST-SUFFIX,feng.com,direct
+HOST-SUFFIX,fir.im,direct
+HOST-SUFFIX,frdic.com,direct
+HOST-SUFFIX,g-cores.com,direct
+HOST-SUFFIX,godic.net,direct
+HOST-SUFFIX,gtimg.com,direct
+HOST-SUFFIX,hongxiu.com,direct
+HOST-SUFFIX,hxcdn.net,direct
+HOST-SUFFIX,iciba.com,direct
+HOST-SUFFIX,ifeng.com,direct
+HOST-SUFFIX,ifengimg.com,direct
+HOST-SUFFIX,ipip.net,direct
+HOST-SUFFIX,iqiyi.com,direct
+HOST-SUFFIX,jd.com,direct
+HOST-SUFFIX,jianshu.com,direct
+HOST-SUFFIX,knewone.com,direct
+HOST-SUFFIX,le.com,direct
+HOST-SUFFIX,lecloud.com,direct
+HOST-SUFFIX,lemicp.com,direct
+HOST-SUFFIX,licdn.com,direct
+HOST-SUFFIX,linkedin.com,direct
+HOST-SUFFIX,luoo.net,direct
+HOST-SUFFIX,meituan.com,direct
+HOST-SUFFIX,meituan.net,direct
+HOST-SUFFIX,mi.com,direct
+HOST-SUFFIX,miaopai.com,direct
+HOST-SUFFIX,microsoft.com,direct
+HOST-SUFFIX,microsoftonline.com,direct
+HOST-SUFFIX,miui.com,direct
+HOST-SUFFIX,miwifi.com,direct
+HOST-SUFFIX,mob.com,direct
+HOST-SUFFIX,netease.com,direct
+HOST-SUFFIX,office.com,direct
+HOST-KEYWORD,officecdn,direct
+HOST-SUFFIX,office365.com,direct
+HOST-SUFFIX,oschina.net,direct
+HOST-SUFFIX,ppsimg.com,direct
+HOST-SUFFIX,pstatp.com,direct
+HOST-SUFFIX,qcloud.com,direct
+HOST-SUFFIX,qdaily.com,direct
+HOST-SUFFIX,qdmm.com,direct
+HOST-SUFFIX,qhimg.com,direct
+HOST-SUFFIX,qhres.com,direct
+HOST-SUFFIX,qidian.com,direct
+HOST-SUFFIX,qihucdn.com,direct
+HOST-SUFFIX,qiniu.com,direct
+HOST-SUFFIX,qiniucdn.com,direct
+HOST-SUFFIX,qiyipic.com,direct
+HOST-SUFFIX,qq.com,direct
+HOST-SUFFIX,qqurl.com,direct
+HOST-SUFFIX,rarbg.to,direct
+HOST-SUFFIX,ruguoapp.com,direct
+HOST-SUFFIX,segmentfault.com,direct
+HOST-SUFFIX,sinaapp.com,direct
+HOST-SUFFIX,smzdm.com,direct
+HOST-SUFFIX,sogou.com,direct
+HOST-SUFFIX,sogoucdn.com,direct
+HOST-SUFFIX,sohu.com,direct
+HOST-SUFFIX,soku.com,direct
+HOST-SUFFIX,speedtest.net,direct
+HOST-SUFFIX,sspai.com,direct
+HOST-SUFFIX,suning.com,direct
+HOST-SUFFIX,taobao.com,direct
+HOST-SUFFIX,tencent.com,direct
+HOST-SUFFIX,tenpay.com,direct
+HOST-SUFFIX,tianyancha.com,direct
+HOST-SUFFIX,tmall.com,direct
+HOST-SUFFIX,tudou.com,direct
+HOST-SUFFIX,umetrip.com,direct
+HOST-SUFFIX,upaiyun.com,direct
+HOST-SUFFIX,upyun.com,direct
+HOST-SUFFIX,veryzhun.com,direct
+HOST-SUFFIX,weather.com,direct
+HOST-SUFFIX,weibo.com,direct
+HOST-SUFFIX,xiami.com,direct
+HOST-SUFFIX,xiami.net,direct
+HOST-SUFFIX,xiaomicp.com,direct
+HOST-SUFFIX,ximalaya.com,direct
+HOST-SUFFIX,xmcdn.com,direct
+HOST-SUFFIX,xunlei.com,direct
+HOST-SUFFIX,yhd.com,direct
+HOST-SUFFIX,yihaodianimg.com,direct
+HOST-SUFFIX,yinxiang.com,direct
+HOST-SUFFIX,ykimg.com,direct
+HOST-SUFFIX,youdao.com,direct
+HOST-SUFFIX,youku.com,direct
+HOST-SUFFIX,zealer.com,direct
+HOST-SUFFIX,zhihu.com,direct
+HOST-SUFFIX,zhimg.com,direct
+HOST-SUFFIX,zimuzu.tv,direct
+
+
+HOST-SUFFIX, ap-oversea-tls.agora.io, direct
+HOST-SUFFIX, ap-oversea.agora.io, direct
+HOST-SUFFIX, ap-oversea2.agora.io, direct
+HOST-SUFFIX, report-oversea.agora.io, direct
+IP-CIDR, 3.0.163.78/32, direct
+IP-CIDR, 13.230.60.35/32, direct
+IP-CIDR, 23.248.191.103/32, direct
+IP-CIDR, 23.248.191.105/32, direct
+IP-CIDR, 23.98.43.152/32, direct
+IP-CIDR, 35.178.208.187/32, direct
+IP-CIDR, 45.40.48.11/32, direct
+IP-CIDR, 45.255.124.98/32, direct
+IP-CIDR, 45.255.124.100/32, direct
+IP-CIDR, 45.255.124.101/32, direct
+IP-CIDR, 45.255.124.104/32, direct
+IP-CIDR, 45.255.124.105/32, direct
+IP-CIDR, 45.255.124.107/32, direct
+IP-CIDR, 45.255.124.108/32, direct
+IP-CIDR, 45.255.124.109/32, direct
+IP-CIDR, 45.255.124.135/32, direct
+IP-CIDR, 50.17.126.121/32, direct
+IP-CIDR, 52.52.84.170/32, direct
+IP-CIDR, 52.58.56.244/32, direct
+IP-CIDR, 52.194.158.59/32, direct
+IP-CIDR, 52.221.46.208/32, direct
+IP-CIDR, 54.178.26.110/32, direct
+IP-CIDR, 69.28.51.148/32, direct
+IP-CIDR, 103.59.49.10/32, direct
+IP-CIDR, 103.65.41.166/32, direct
+IP-CIDR, 103.65.41.169/32, direct
+IP-CIDR, 103.98.18.181/32, direct
+IP-CIDR, 103.98.18.183/32, direct
+IP-CIDR, 103.98.18.184/32, direct
+IP-CIDR, 103.98.18.189/32, direct
+IP-CIDR, 120.227.115.126/32, direct
+IP-CIDR, 122.10.255.165/32, direct
+IP-CIDR, 128.1.87.196/32, direct
+IP-CIDR, 129.227.71.203/32, direct
+IP-CIDR, 129.227.115.130/32, direct
+IP-CIDR, 148.153.126.146/32, direct
+IP-CIDR, 148.153.172.73/32, direct
+IP-CIDR, 148.153.172.74/32, direct
+IP-CIDR, 148.153.172.75/32, direct
+IP-CIDR, 148.153.172.76/32, direct
+IP-CIDR, 148.153.172.77/32, direct
+IP-CIDR, 164.52.0.244/32, direct
+IP-CIDR, 164.52.6.19/32, direct
+IP-CIDR, 164.52.6.21/32, direct
+IP-CIDR, 164.52.6.23/32, direct
+IP-CIDR, 164.52.6.24/32, direct
+IP-CIDR, 164.52.6.25/32, direct
+IP-CIDR, 164.52.32.57/32, direct
+IP-CIDR, 164.52.32.59/32, direct
+IP-CIDR, 164.52.32.60/32, direct
+IP-CIDR, 164.52.36.228/32, direct
+IP-CIDR, 164.52.36.232/32, direct
+IP-CIDR, 164.52.36.238/32, direct
+IP-CIDR, 164.52.36.243/32, direct
+IP-CIDR, 164.52.36.245/32, direct
+IP-CIDR, 164.52.36.254/32, direct
+IP-CIDR, 164.52.102.35/32, direct
+IP-CIDR, 164.52.102.66/32, direct
+IP-CIDR, 164.52.102.67/32, direct
+IP-CIDR, 164.52.102.68/32, direct
+IP-CIDR, 164.52.102.69/32, direct
+IP-CIDR, 164.52.102.70/32, direct
+IP-CIDR, 164.52.102.75/32, direct
+IP-CIDR, 164.52.102.76/32, direct
+IP-CIDR, 164.52.102.77/32, direct
+IP-CIDR, 164.52.102.91/32, direct
+IP-CIDR, 164.52.124.102/32, direct
+IP-CIDR, 199.190.44.36/32, direct
+IP-CIDR, 199.190.44.37/32, direct
+IP-CIDR, 202.181.136.106/32, direct
+IP-CIDR, 202.226.25.162/32, direct
+IP-CIDR, 202.226.25.166/32, direct
+IP-CIDR, 202.226.25.171/32, direct
+IP-CIDR, 202.226.25.195/32, direct
+IP-CIDR, 202.226.25.198/32, direct
+IP-CIDR, 129.227.57.143/32, direct
+IP-CIDR, 129.227.234.70/32, direct
+IP-CIDR, 129.227.234.82/32, direct
+IP-CIDR, 129.227.234.119/32, direct
+IP-CIDR, 129.227.71.144/32, direct
+IP-CIDR, 129.227.57.132/32, direct
+IP-CIDR, 129.227.57.134/32, direct
+IP-CIDR, 129.227.57.145/32, direct
+IP-CIDR, 129.227.71.141/32, direct
+IP-CIDR, 129.227.234.83/32, direct
+IP-CIDR, 129.227.71.142/32, direct
+IP-CIDR, 129.227.71.132/32, direct
+IP-CIDR, 129.227.71.133/32, direct
+IP-CIDR, 129.227.71.134/32, direct
+IP-CIDR, 129.227.234.67/32, direct
+IP-CIDR, 129.227.234.110/32, direct
+IP-CIDR, 129.227.234.112/32, direct
+IP-CIDR, 129.227.234.124/32, direct
+IP-CIDR, 129.227.71.140/32, direct
+IP-CIDR, 129.227.71.130/32, direct
+IP-CIDR, 129.227.71.131/32, direct
+IP-CIDR, 129.227.71.143/32, direct
+IP-CIDR, 129.227.156.17/32, direct
+IP-CIDR, 129.227.57.137/32, direct
+IP-CIDR, 129.227.156.20/32, direct
+
+# China Area Network
+HOST-SUFFIX,flyert.com,direct
+HOST-SUFFIX,gandi.net,direct
+HOST-SUFFIX,snapdrop.net,direct
+HOST,download.jetbrains.com,direct
+HOST,origin-a.akamaihd.ne,direct
+# ---(Microsoft)---
+# > Outlook
+HOST,outlook.office365.com,direct
+HOST,smtp-mail.outlook.com,direct
+HOST,smtp.office365.com,direct
+# > Windows Server Update Services
+HOST-SUFFIX,dl.delivery.mp.microsoft.com,direct
+HOST-SUFFIX,update.microsoft.com,direct
+HOST-SUFFIX,windowsupdate.com,direct
+HOST-SUFFIX,windowsupdate.microsoft.com,direct
+HOST,download.microsoft.com,direct
+HOST,wustat.windows.com,direct
+HOST,ntservicepack.microsoft.com,direct
+# ------
+# > PayPal
+HOST-SUFFIX,paypal.com,direct
+HOST-SUFFIX,paypal.me,direct
+HOST-SUFFIX,paypal-mktg.com,direct
+HOST-SUFFIX,paypalobjects.com,direct
+# > Steam
+HOST-SUFFIX,cm.steampowered.com,direct
+HOST-SUFFIX,steamserver.net,direct
+# > Tencent
+IP-CIDR,182.254.116.0/24,direct
+IP-CIDR,203.205.238.0/23,direct
+IP-CIDR,203.205.254.0/23,direct
+# > IP Query
+HOST,ip.istatmenus.app,direct
+HOST,sms.imagetasks.com,direct
+# > Speed Test
+HOST-SUFFIX,netspeedtestmaster.com,direct
+HOST,speedtest.macpaw.com,direct
+# > Private Tracker
+HOST-SUFFIX,acg.rip,direct
+HOST-SUFFIX,animebytes.tv,direct
+HOST-SUFFIX,awesome-hd.me,direct
+HOST-SUFFIX,broadcasthe.net,direct
+HOST-SUFFIX,chdbits.co,direct
+HOST-SUFFIX,classix-unlimited.co.uk,direct
+HOST-SUFFIX,comicat.org,direct
+HOST-SUFFIX,empornium.me,direct
+HOST-SUFFIX,gazellegames.net,direct
+HOST-SUFFIX,hdbits.org,direct
+HOST-SUFFIX,hdchina.org,direct
+HOST-SUFFIX,hddolby.com,direct
+HOST-SUFFIX,hdhome.org,direct
+HOST-SUFFIX,hdsky.me,direct
+HOST-SUFFIX,icetorrent.org,direct
+HOST-SUFFIX,jpopsuki.eu,direct
+HOST-SUFFIX,keepfrds.com,direct
+HOST-SUFFIX,madsrevolution.net,direct
+HOST-SUFFIX,morethan.tv,direct
+HOST-SUFFIX,m-team.cc,direct
+HOST-SUFFIX,myanonamouse.net,direct
+HOST-SUFFIX,nanyangpt.com,direct
+HOST-SUFFIX,ncore.cc,direct
+HOST-SUFFIX,open.cd,direct
+HOST-SUFFIX,ourbits.club,direct
+HOST-SUFFIX,passthepopcorn.me,direct
+HOST-SUFFIX,privatehd.to,direct
+HOST-SUFFIX,pterclub.com,direct
+HOST-SUFFIX,redacted.ch,direct
+HOST-SUFFIX,springsunday.net,direct
+HOST-SUFFIX,tjupt.org,direct
+HOST-SUFFIX,totheglory.im,direct
+
+GEOIP,CN,direct
+
+IP-CIDR,127.0.0.0/8,direct
+IP-CIDR,172.16.0.0/12,direct
+IP-CIDR,192.168.0.0/16,direct
+IP-CIDR,10.0.0.0/8,direct
+IP-CIDR,17.0.0.0/8,direct
+IP-CIDR,100.64.0.0/10,direct
